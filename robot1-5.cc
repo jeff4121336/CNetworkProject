@@ -1,5 +1,4 @@
 /*
- * IERG3310 Project
  * first version written by FENG, Shen Cody
  * Modified by Jonathan Liang @ 2016.10.25
  */
