@@ -1,4 +1,4 @@
-# CNetworkProject
+# C++NetworkProject
 
 Course Project Year 3 Semester 1
 
